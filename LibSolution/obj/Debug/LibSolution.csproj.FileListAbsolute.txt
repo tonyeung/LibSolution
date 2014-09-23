@@ -1,0 +1,10 @@
+C:\Users\ton\AppData\Local\Temporary Projects\LibSolution\bin\Debug\LibSolution.dll
+C:\Users\ton\AppData\Local\Temporary Projects\LibSolution\bin\Debug\LibSolution.pdb
+C:\Users\ton\AppData\Local\Temporary Projects\LibSolution\obj\Debug\LibSolution.csprojResolveAssemblyReference.cache
+C:\Users\ton\AppData\Local\Temporary Projects\LibSolution\obj\Debug\LibSolution.dll
+C:\Users\ton\AppData\Local\Temporary Projects\LibSolution\obj\Debug\LibSolution.pdb
+C:\Users\ton\Documents\Visual Studio 2013\Projects\LibSolution\LibSolution\bin\Debug\LibSolution.dll
+C:\Users\ton\Documents\Visual Studio 2013\Projects\LibSolution\LibSolution\bin\Debug\LibSolution.pdb
+C:\Users\ton\Documents\Visual Studio 2013\Projects\LibSolution\LibSolution\obj\Debug\LibSolution.csprojResolveAssemblyReference.cache
+C:\Users\ton\Documents\Visual Studio 2013\Projects\LibSolution\LibSolution\obj\Debug\LibSolution.dll
+C:\Users\ton\Documents\Visual Studio 2013\Projects\LibSolution\LibSolution\obj\Debug\LibSolution.pdb
